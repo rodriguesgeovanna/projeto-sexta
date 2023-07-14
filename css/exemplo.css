@@ -1,0 +1,36 @@
+/* Mudando todas as configurações padrões do browse */
+
+*{
+    margin: 0;
+}
+
+/* Trabalhando com a classe do título */
+.titulo{
+    background-color: rgb(243, 94, 208);
+    color: rgb(104, 11, 101);
+    font-family:'Courier New', Courier, monospace;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+/* Trabalhando com a classe texto */
+.texto{
+    align-items: center;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 2% 10%;
+    background-color: rgba(247, 141, 238, 0.566);
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.fim-de-texto{
+    color: rgb(167, 22, 34);
+    text-align: center;
+    margin: 15px;
+    font-family:'VT323', 'monospace';
+}
+
